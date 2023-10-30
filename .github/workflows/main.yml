@@ -14,5 +14,5 @@ jobs:
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USER }}
         key: ${{ secrets.SSH_KEY }}
-        run: |
-          git clone https://github.com/radiaa-devops/walid.git
+        script: |
+                    bash /home/ubuntu/walid/update.sh

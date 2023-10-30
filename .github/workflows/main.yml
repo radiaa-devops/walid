@@ -16,4 +16,4 @@ jobs:
         key: ${{ secrets.SSH_KEY }}
         port: ${{ secrets.PORT }}
         script: |
-                   pwd
+                   bash up.sh

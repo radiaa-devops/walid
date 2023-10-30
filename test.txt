@@ -3,3 +3,4 @@ add
 chmod -x update.sh
 port 22
 13.38.123.108
+init

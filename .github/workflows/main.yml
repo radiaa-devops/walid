@@ -16,4 +16,4 @@ jobs:
         key: ${{ secrets.SSH_KEY }}
         port: ${{ secrets.PORT }}
         script: |
-                   bash ~/walid2/update.sh
+                   pwd

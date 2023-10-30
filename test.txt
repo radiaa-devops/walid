@@ -1,4 +1,4 @@
 test
 add
 chmod -x update.sh
-port 2222
+port 22

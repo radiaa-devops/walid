@@ -1,3 +1,4 @@
+clone
 test
 add
 chmod -x update.sh

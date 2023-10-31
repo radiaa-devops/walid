@@ -1,4 +1,4 @@
-name: Remote update execution
+name: Remote update execution on a server
 on:
   push:
     branches:
